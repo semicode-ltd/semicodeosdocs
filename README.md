@@ -1,0 +1,2 @@
+# semicodeosdocs
+SemiCode OS Documentation 
